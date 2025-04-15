@@ -45,7 +45,7 @@ I'm a passionate backend developer focused on building robust, scalable, and eff
 
 ## 📫 How to reach me
 - Email: saranselvaraj2112@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/saranselvaraj-backend-developer/))
+- LinkedIn: [Saran Selvaraj](https://www.linkedin.com/in/saranselvaraj-backend-developer/)
 
 
 ## 😄 Pronouns
